@@ -1,1 +1,1 @@
-Template for C# HelloWorld project
+C# project template
